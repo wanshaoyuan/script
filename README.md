@@ -3,5 +3,5 @@
 ``` chmod a+x clean_interface.sh```  
 ```bash clean_interface.sh  # bash clean_interface.sh to detection of network interface```   
 
-```bash clean_interface.sh -d    # bash clean_interface.sh to list residual network interface```  
+```bash clean_interface.sh -d    # bash clean_interface.sh to clean residual network interface```  
 
