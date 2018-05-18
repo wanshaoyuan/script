@@ -2,11 +2,9 @@
 # ----------------------------------------------------------------------
 # name:         clean_interface
 # version:      1.0
-# createTime:   2016-06-22
-# description:  shell脚本的功能描述
-# author:       birdben
-# email:        191654006@163.com
-# github:       https://github.com/birdben
+# createTime:   2018-05-10
+# description:  清除容器删除后还残留的veth网卡
+# github:       https://github.com/wanshaoyuan/script
 # ---------------------------------------------------------------------
 veth_in_use=()
 veth_unused=()
