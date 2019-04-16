@@ -50,7 +50,7 @@ do
 done
 echo ${veth_unused[@]}
 
-if [ "$1" == “-d” ];
+if [ "$1" == "-d" ];
 then
    for i in "${veth_unused[@]}"
    do
